@@ -20,7 +20,7 @@ Explanation : Here the person tries to tell that the place or the restaurant tha
 
 The dataset that would be used for training the model is sentiment140. It has 1.6M tweets that are extracted using the twitter API. Each tweet is annoated with either 0 (negative) or 4 (positive) and they can be used to detect sentiments.
 
-Dataset can be found <a target="_blank" href="http://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip">here</a>.
+Dataset can be found <a target="_blank" href="http://help.sentiment140.com/for-students">here</a>.
 
 ## Approach <a name="approach">
 ### 1. Introduction <a name="introduction">
